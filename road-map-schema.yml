@@ -1,0 +1,23 @@
+---
+"$id": https://github.com/api-commons/road-map/blob/main/road-map-schema.yml
+"$schema": https://json-schema.org/draft/2020-12/schema
+title: Road Map
+type: object
+properties:
+  date:
+    type: string
+    description: The target date for the API road map item.
+  name:
+    type: string
+    description: The name for the API road map item.
+  image:
+    description: 
+    type: string The image for the API road map item.
+  link:
+    description: The link for the API road map item.
+    type: string  
+  tags:
+    description: The tags for the API road map item.
+    type: array
+    items:
+      type: string

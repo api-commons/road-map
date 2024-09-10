@@ -1,0 +1,21 @@
+aid: road-map
+name: Road Map
+type: Common
+description: |-
+  This is a schema to help manage change across APIs, providing a simple schema that can be produced from any system being used to manage APIs, but then made interoperable as part of the API contract.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Road Map
+- Change
+created: '2024-09-10'
+modified: '2024-09-10'
+url: https://github.com/api-commons/road-maps/blob/main/apis.yml
+specificationVersion: '0.18'
+common:
+- type: JSONSchema
+  url: https://github.com/api-commons/road-maps/blob/main/road-map-schema.yml
+- type: Example
+  url: https://github.com/api-commons/road-maps/blob/main/road-map-example.yml  
+maintainers:
+- FN: API Commons
+  email: info@apievangelist.com
