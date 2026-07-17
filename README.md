@@ -45,3 +45,14 @@ The road map is one of a growing set of API Commons building blocks that describ
 ## Support
 
 This work is in an early stage of development and is rapidly moving as it is applied across a variety of user interfaces and approaches to API operations and governance. If you would like to contribute, have any questions, or would like to inform the work happening, please submit a GitHub issue on this repository or email kin@apievangelist.com.
+
+## Part of API Commons
+
+A machine-readable building block from **[API Commons](https://apicommons.org)** — open specifications and schemas for the APIs you produce and consume. See all building blocks and tools at **[apicommons.org](https://apicommons.org)** and the tools at **[apicommons.org/tools](https://apicommons.org/tools/)**.
+
+**Related building blocks**
+- [change-log](https://github.com/api-commons/change-log) — publish an API's changelog in a machine-readable way
+- [teams](https://github.com/api-commons/teams) — the people layer of API operations
+- [use-cases](https://github.com/api-commons/use-cases) — how an API is actually put to work, tied to its operations
+- [plans](https://github.com/api-commons/plans) — machine-readable access plans, tiers, and pricing
+- [guidance](https://github.com/api-commons/guidance) — the how-to layer that turns governance rules into help
