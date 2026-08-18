@@ -56,3 +56,10 @@ A machine-readable building block from **[API Commons](https://apicommons.org)**
 - [use-cases](https://github.com/api-commons/use-cases) — how an API is actually put to work, tied to its operations
 - [plans](https://github.com/api-commons/plans) — machine-readable access plans, tiers, and pricing
 - [guidance](https://github.com/api-commons/guidance) — the how-to layer that turns governance rules into help
+
+## License
+
+The artifacts in this repository — the schemas, examples, and API descriptions — are
+licensed **[CC BY-NC-SA 4.0](LICENSE)** (Attribution–NonCommercial–ShareAlike).
+
+API Commons licenses **artifacts** under CC BY-NC-SA 4.0 and **code** under Apache-2.0.
